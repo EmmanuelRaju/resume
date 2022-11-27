@@ -6,6 +6,7 @@ const config = {
       postcss: true,
     }),
   ],
+  outDir: "docs",
 };
 
 export default config;
