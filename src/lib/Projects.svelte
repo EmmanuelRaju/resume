@@ -1,0 +1,57 @@
+<!-- Projects section -->
+<section>
+  <h2 class="section-title">PROJECTS</h2>
+  <!-- Etherwatch Project details -->
+  <div>
+    <h4 class="list-title">EtherWatch - Marketplace for satellite data</h4>
+    <ul class="list">
+      <li>
+        Building a web application with React as frontend and Django backend
+        sourcing in data from partner APIs. This application will serve as a
+        market place for satellite data for monitoring various aspects such
+        as weather and asset conditions.
+      </li>
+    </ul>
+  </div>
+  <!-- eNetra Project details -->
+  <div>
+    <h4 class="list-title">eNetra - Smart energy management</h4>
+    <ul class="list">
+      <li>
+        Developed full stack application with Django as backend and React
+        frontend implementing Redux pattern
+      </li>
+    </ul>
+  </div>
+  <!-- eFortify Project details -->
+  <div>
+    <h4 class="list-title">eFortify - Covid Tracker application</h4>
+    <ul class="list">
+      <li>
+        Was the key resource in developing the solution as a whole, majorly
+        contributing in developing React-Native based mobile application
+      </li>
+    </ul>
+  </div>
+  <!-- Deep Tech Makers Project details -->
+  <div>
+    <h4 class="list-title">Deep Tech Makers</h4>
+    <ul class="list">
+      <li>
+        Trained 200+ employees on IoT technology as part of company wide
+        innovation upskilling
+      </li>
+    </ul>
+  </div>
+  <!-- Vetturino Project details -->
+  <div>
+    <h4 class="list-title">Vetturino - Blackbox for automobiles</h4>
+    <ul class="list">
+      <li>
+        Been part of the project since inception and contributed at various
+        fronts such as project architecture, dashboard designing and product
+        development
+      </li>
+    </ul>
+  </div>
+</section>

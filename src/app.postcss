@@ -1,0 +1,50 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/* Global */
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  @apply max-w-[210mm] bg-secondary m-auto
+}
+h1 {
+  @apply text-3xl font-semibold;
+}
+h2 {
+  @apply text-xl;
+}
+h3 {
+  @apply text-lg;
+}
+h4 {
+  @apply text-base;
+}
+
+.section-title {
+  @apply text-accent underline underline-offset-4 font-medium;
+}
+
+.title {
+  @apply font-bold mt-2;
+}
+.sub-title {
+  @apply font-medium;
+}
+.timeline {
+  @apply italic text-accent text-xs flex justify-between font-medium mt-2;
+}
+.list-heading {
+  @apply italic text-accent text-xs font-medium mt-2;
+}
+.list-title {
+  @apply font-semibold mt-2
+}
+
+.list {
+  @apply list-disc ml-5 marker:text-accent my-2;
+}
