@@ -5,6 +5,11 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JS</li>
+    <li>Svelte</li>
+    <li>SvelteKit</li>
+    <li>11Ty</li>
+    <li>Cypress</li>
+    <li>Jest</li>
     <li>React</li>
     <li>Django</li>
     <li>IoT</li>
@@ -23,6 +28,6 @@
 }
 
 ul li{
-  @apply bg-primary text-white font-semibold px-4 py-1 rounded-md my-2 mx-1
+  @apply bg-primary text-white font-semibold px-4 py-1 rounded-md my-1 mx-1
 }
 </style>

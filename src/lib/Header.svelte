@@ -14,7 +14,7 @@
 
 <style>
   header {
-  @apply bg-primary p-8 text-white flex flex-col-reverse;
+  @apply bg-primary p-8 text-white flex flex-col-reverse sm:flex-row sm:justify-between;
 }
 
 .header-img {

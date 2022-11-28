@@ -27,7 +27,7 @@
 
 <style>
   ul {
-  @apply px-8 grid grid-cols-1 bg-secondary py-4 text-white text-sm gap-3
+  @apply px-8 grid grid-cols-1 bg-secondary py-4 text-white text-sm gap-3 sm:grid-cols-2
 }
 
 ul li {

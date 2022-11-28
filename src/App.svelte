@@ -20,8 +20,8 @@ import Header from "./lib/Header.svelte";
 <Header />
 <Contact />
 <div class="px-8 pt-6 pb-10">
-  <Experience />
   <Skills />
+  <Experience />
   <Projects />
   <Education />
   <Achievements />

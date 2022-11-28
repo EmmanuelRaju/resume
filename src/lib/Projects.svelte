@@ -1,6 +1,15 @@
 <!-- Projects section -->
 <section>
   <h2 class="section-title">PROJECTS</h2>
+  <!-- Apex Project details -->
+  <div>
+    <h4 class="list-title">Apex Commerce - Digitalising storefronts</h4>
+    <ul class="list">
+      <li>
+        This application is for aiding businesses to make a mark in the e-commerce market. Developing the admin functionality for this application, primarily using cutting edge technologies like SvelteKit, Vite, Jest & Cypress.
+      </li>
+    </ul>
+  </div>
   <!-- Etherwatch Project details -->
   <div>
     <h4 class="list-title">EtherWatch - Marketplace for satellite data</h4>

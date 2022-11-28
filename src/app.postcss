@@ -25,6 +25,14 @@ h4 {
   @apply text-base;
 }
 
+section {
+  @apply my-4
+}
+
+section:nth-child(1) {
+  @apply mt-0 mb-4
+}
+
 .section-title {
   @apply text-accent underline underline-offset-4 font-medium;
 }
@@ -47,4 +55,8 @@ h4 {
 
 .list {
   @apply list-disc ml-5 marker:text-accent my-2;
+}
+
+.list li{
+  @apply my-1;
 }
