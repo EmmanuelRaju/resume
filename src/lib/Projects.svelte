@@ -10,6 +10,33 @@
       </li>
     </ul>
   </div>
+  <!-- Ellipsis Project details -->
+  <div>
+    <h4 class="list-title">Ellipsis - Headless Cart SDK</h4>
+    <ul class="list">
+      <li>
+        This SDK is for adding cart functionality for e-commerce storefronts. My primary contributions include improvement of existing features, increasing code test coverage to 90+% and maintenance.
+      </li>
+    </ul>
+  </div>
+  <!-- Saut details -->
+  <div>
+    <h4 class="list-title">Saut - Curriculum management of differently abled children</h4>
+    <ul class="list">
+      <li>
+        This is a web application for managing education curriculum of differently abled kids. It has been build to support English and Arabic languages.
+      </li>
+    </ul>
+  </div>
+  <!-- Storefronts details -->
+  <div>
+    <h4 class="list-title">Storefronts - Mivi, Vibrant Living, Old School</h4>
+    <ul class="list">
+      <li>
+        These are live e-commerce storefronts of respective clients. Product catalog updation, frontend enhancements, client request implmentations are my responsibilities 
+      </li>
+    </ul>
+  </div>
   <!-- Etherwatch Project details -->
   <div>
     <h4 class="list-title">EtherWatch - Marketplace for satellite data</h4>
