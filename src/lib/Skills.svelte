@@ -1,5 +1,5 @@
 <!-- Skills section -->
-<section>
+<section id="skills">
   <h2 class="section-title">SKILLS</h2>
   <ul>
     <li>HTML</li>
@@ -24,7 +24,7 @@
 
 <style>
   ul {
-  @apply flex flex-wrap
+  @apply flex flex-wrap mt-2
 }
 
 ul li{

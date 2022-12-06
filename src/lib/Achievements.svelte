@@ -1,5 +1,5 @@
 <!-- Academic achievements section -->
-<section>
+<section id="achievements">
   <h2 class="section-title">ACADEMIC ACHIEVEMENTS</h2>
   <ul class="list">
     <li>Graduated in distinction without a single backlog ever!</li>

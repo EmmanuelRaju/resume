@@ -1,5 +1,5 @@
 <!-- Certificates/Credentials section -->
-<section>
+<section id="credentials">
   <h2 class="section-title">CERTIFICATES & CREDENTIALS</h2>
   <ul class="list">
     <li>

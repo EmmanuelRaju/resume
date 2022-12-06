@@ -1,5 +1,5 @@
 <!-- Education section -->
-<section>
+<section id="education">
   <h2 class="section-title">EDUCATION</h2>
   <!-- B.Tech details -->
   <div>

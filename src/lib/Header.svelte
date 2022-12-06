@@ -1,5 +1,5 @@
 <!-- Header -->
-<header>
+<header id="header">
   <div>
     <h1>Emmanuel Raju D</h1>
     <h3>Web Developer</h3>

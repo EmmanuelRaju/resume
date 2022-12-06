@@ -1,10 +1,11 @@
 <script>
   import Achievements from "./lib/Achievements.svelte";
-import Contact from "./lib/Contact.svelte";
+  import Contact from "./lib/Contact.svelte";
   import Credentials from "./lib/Credentials.svelte";
+  import Download from "./lib/Download.svelte";
   import Education from "./lib/Education.svelte";
   import Experience from "./lib/Experience.svelte";
-import Header from "./lib/Header.svelte";
+  import Header from "./lib/Header.svelte";
   import Projects from "./lib/Projects.svelte";
   import Skills from "./lib/Skills.svelte";
 
@@ -28,3 +29,5 @@ import Header from "./lib/Header.svelte";
   <Credentials />
 </div>
 </main>
+
+<Download />

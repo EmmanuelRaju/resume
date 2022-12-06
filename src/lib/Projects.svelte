@@ -1,5 +1,5 @@
 <!-- Projects section -->
-<section>
+<section id="projects">
   <h2 class="section-title">PROJECTS</h2>
   <!-- Apex Project details -->
   <div>

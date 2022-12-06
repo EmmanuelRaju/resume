@@ -1,5 +1,5 @@
 <!-- Work experience section -->
-<section>
+<section id="experience">
   <h2 class="section-title">WORK EXPERIENCE</h2>
 
   <div class="experiences-container">

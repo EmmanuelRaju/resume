@@ -4,7 +4,7 @@
 </script>
 
 <!-- Contact details -->
-<ul>
+<ul id="contact">
   <li>
     <Icon kind="mail"/>
     <p>eraj007@gmail.com</p>
