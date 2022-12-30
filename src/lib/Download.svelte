@@ -21,6 +21,9 @@ element = document.getElementById('app')
 </script>
 
 <!-- svelte-ignore a11y-click-events-have-key-events -->
-<div bind:this={downloadButton} on:click={download} class="fixed bottom-2 right-2 cursor-pointer rounded-full bg-accent text-white p-4 text-2xl">
+<!-- <div bind:this={downloadButton} on:click={download} class="fixed bottom-2 right-2 cursor-pointer rounded-full bg-accent text-white p-4 text-2xl">
   <Icon kind="download"/>
-</div>
+</div> -->
+<a href="/resume/emmanuel-resume.pdf" download class="fixed bottom-2 right-2 cursor-pointer rounded-full bg-accent text-white p-4 text-2xl">
+  <Icon kind="download"/>
+</a>
